@@ -1,0 +1,49 @@
+# Aline Silva | Psicóloga Clínica - CRP 06/164789
+
+> "Acolher é o primeiro passo. Transformar é o destino."
+> Identidade que acolhe. Presença que transforma.
+
+## Visão Geral
+Website oficial e página de atendimento da psicóloga clínica **Aline Silva** (CRP 06/164789). A profissional atua com foco em psicoterapia para adultos e crianças, através de atendimentos online (em todo o Brasil e exterior) e atendimentos presenciais em Embu das Artes e região metropolitana de São Paulo (atendendo Taboão da Serra, Itapecerica da Serra, Cotia, Granja Viana e Zona Sul de SP). O trabalho é fundamentado em ética, escuta ativa e evidências científicas sólidas da psicologia clínica, promovendo autoconhecimento, regulação emocional, alívio de ansiedade e desenvolvimento infantil.
+
+## Informações Profissionais
+- **Nome:** Aline Silva
+- **Especialidade:** Psicologia Clínica / Psicoterapia
+- **Registro Profissional:** CRP 06/164789 (Conselho Regional de Psicologia de São Paulo)
+- **Experiência:** Mais de 7 anos de prática clínica
+- **Regulamentação:** Atendimentos online estruturados em total conformidade com a Resolução CFP nº 11/2018.
+
+## Modalidades de Atendimento
+
+### 1. Terapia Individual (Adultos)
+- **Foco:** Autoconhecimento, manejo de ansiedade crônica, estresse, sobrecarga emocional, término de relacionamentos, luto, autoestima e tomada de decisões conscientes.
+- **Formato:** Sessões individuais de 50 a 60 minutos, realizadas online (videochamada criptografada) ou presencialmente.
+- **Abordagem:** Escuta ativa, acolhimento sem julgamentos e sigilo ético absoluto.
+
+### 2. Psicoterapia Infantil
+- **Foco:** Ludoterapia para tratamento de medos infantis, ansiedade, dificuldades escolares, adaptações a mudanças familiares e desenvolvimento da inteligência emocional.
+- **Formato:** Sessões lúdicas especializadas com a criança e encontros periódicos de orientação parental contínua aos pais/responsáveis.
+
+### 3. Atendimento Online (Brasil e Exterior)
+- **Flexibilidade:** Horários flexíveis nos períodos da Manhã, Tarde e Noite.
+- **Requisitos:** Ambiente privado e seguro, fones de ouvido e conexão com internet.
+- **Eficácia:** Mesma comprovação e validade terapêutica do formato presencial.
+
+## Política de Atendimento e Convênios
+- **Modelo:** Atendimento particular focado em dedicação e tempo personalizado.
+- **Reembolso:** Emissão de recibos e relatórios com CRP para solicitação de reembolso junto aos principais planos de saúde.
+
+## Contato e Agendamento
+- **Canal Oficial:** WhatsApp (+55 11 98722-0409)
+- **Link Direto:** https://api.whatsapp.com/send?phone=5511987220409
+- **Website:** https://alinesilvapsicologa.vercel.app/
+
+## Estrutura do Site e Rotas Canônicas
+- `/` - Página Principal (Hero com apresentação e credenciamento CRP)
+- `/#dores` - Identificação das Dores Emocionais e Sintomas Comuns
+- `/#beneficios` - A Solução: Os Benefícios da Psicoterapia
+- `/#servicos` - Modalidades de Atendimento (Adulto e Infantil)
+- `/#processo` - Quebra de Padrão e Compromisso Científico
+- `/#sobre` - Biografia e Formação de Aline Silva
+- `/#depoimentos` - Relatos e Prova Social de Pacientes
+- `/#faq` - Perguntas Frequentes sobre Funcionamento e Agendamento
